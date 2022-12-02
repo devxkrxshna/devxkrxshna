@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devxkrxshna
+- 👋 Hi, I’m Devi Krishna
 - 👀 I’m interested in Machine learning and all it's subsets 
 - 🌱 I’m currently learning data structures and algorithms and full stack web development 
 - 💞️ I’m looking to collaborate on ...
