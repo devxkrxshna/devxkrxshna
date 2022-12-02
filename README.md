@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devxkrxshna
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning data structures and algorithms
+- 👀 I’m interested in Machine learning and all it's subsets 
+- 🌱 I’m currently learning data structures and algorithms and full stack web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
