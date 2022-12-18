@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devi Krishna
-- 👀 I’m currently doing Electronics and Communication Engineering, I have a keen interest in Machine learning and all it's subsets 
+- 👀 I’m currently doing my bachelor's in Electronics and Communication Engineering, I have a keen interest in Machine learning and all it's subsets 
 - 🌱 I’m currently learning data structures and algorithms and full stack web development 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
